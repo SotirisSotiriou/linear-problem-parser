@@ -1,2 +1,5 @@
 # LP Parser
-Run.py file is to run the parser multiple times
+This parser is built with PyCharm
+
+## Instractions:
+- Run.py file is to run the parser multiple times
