@@ -1,2 +1,2 @@
 # Parser
-Γραμμικός και Δικτυακός Προγραμματισμός - εργασία 1
+A simple parser for linear problems built in python
