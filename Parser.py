@@ -223,7 +223,7 @@ def readFirstElementII(line, Variables, index):
     if str(line[index]) == '\n':
         print("Syntax Error...")
         system.exit(0)
-    elif str(line[index]) == '+' or str(line[index]).isdigit():
+    elif str(line[index]) == '+' or str(line[index]).isdigit() or str(line[index]).isalpha():
         numbertext, index = readNumber(line, index)
         vartext, index = readVariable(line, index)
         try:
